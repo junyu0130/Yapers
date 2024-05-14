@@ -22,6 +22,8 @@
 
 [投影片](doc/yapers-ppt_Intro.pdf)
 
+[功能展示影片(Youtube)](https://youtu.be/-Irm_QJNhcA)
+
 ### 海報
 
 ![Yapers poster](img/poster/Yapers-嵌入式即時系統開發平台.png)

@@ -67,4 +67,4 @@
 
 - 王嘉朗
 - 郭明穎
-- 廖鈞榆 @junyu0130
+- 廖鈞榆 [![github-junyu0130](https://img.shields.io/badge/github-junyu0130-blue?style=flat-square&logo=github)](https://github.com/junyu0130)

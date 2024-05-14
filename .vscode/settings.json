@@ -1,0 +1,7 @@
+{
+  "cSpell.words": ["junyu", "Yapers"],
+  "markdownlint.config": {
+    "default": true,
+    "MD033": { "allowed_elements": ["div", "img"] }
+  }
+}
